@@ -1,5 +1,9 @@
-# CAD-Skills-1
-UV Vis Spectrophotometer.
-# Info
-Not all files are added since it was a project in which I am not allowed to disclose some information.
-Everything is made by me. Please look inside "Photos Of Final Assembly". Thanks for viewing.
+# CAD-Skills-1: UV-Vis Spectrophotometer
+
+This project showcases a custom-designed UV-Vis Spectrophotometer. All parts were modeled and assembled by me.
+
+> 📁 Some files are excluded due to confidentiality.
+
+🔧 Check the **Photos Of Final Assembly** folder for the final design.
+
+Thanks for visiting!
