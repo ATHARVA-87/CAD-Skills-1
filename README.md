@@ -9,4 +9,5 @@ This project showcases a custom-designed UV-Vis Spectrophotometer. All parts wer
 Update: As the idea was sold and I had not signed any NDA, we were working on levitator based UV-Vis Spectrophotometer. This was concept of how the product would be designed.
 
 Thanks for visiting! 
-![Project Screenshot](Photos Of Final Assembly/SS.JPG)
+![Project Screenshot](Photos%20Of%20Final%20Assembly/SS.JPG)
+
